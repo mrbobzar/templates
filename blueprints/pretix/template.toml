@@ -6,8 +6,3 @@ main_domain = "${domain}"
 serviceName = "pretix"
 port = 3000
 host = "${main_domain}"
-
-
-[config.env]
-
-[[config.mounts]]
